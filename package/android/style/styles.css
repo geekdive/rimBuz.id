@@ -1,0 +1,47 @@
+#customers {
+    font-family: monospace;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#customers td, #customers th {
+    border-bottom: 1px solid #33691E;
+    padding: 5px;
+}
+
+table {
+  margin-left: 17px;
+}
+
+#customers tr:nth-child(even) {
+  background-color: #F0F4C3;
+}
+
+#customers tr:hover {
+  background-color: #E6EE9C;
+
+}
+
+#customers th {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: left;
+    background-color: #00E5FF;
+    color: #000;
+}
+
+#forbody {
+  font-family: monospace;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  background-color: #F9FBE7;
+}
+
+td {
+  vertical-align: top;
+}
+
+#bag {
+  text-align: center;
+}

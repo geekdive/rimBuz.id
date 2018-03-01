@@ -1,0 +1,18 @@
+#forbody {
+  text-align: center;
+  font-family: monospace;
+  margin-left: 500px;
+  margin-right: 500px;
+  background-color: #F9FBE7;
+}
+legend {
+  padding: 0.2em 0.5em;
+  border:1px solid green;
+  color:green;
+  font-size:90%;
+  text-align:right;
+}
+
+fieldset {
+  border:3px solid #2E7D32;
+}
